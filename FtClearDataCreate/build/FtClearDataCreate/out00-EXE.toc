@@ -1,0 +1,9 @@
+('J:\\python test\\build\\FtClearDataCreate\\FtClearDataCreate.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1438333964L)
